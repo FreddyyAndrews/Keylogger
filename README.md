@@ -11,7 +11,7 @@ Key loggers work in a three stage process:
 - Extraction
 ---
 ## Deployment
-Deployment of a keylogger can be as simple as downloading a .exe file and running it, what varries is the method of infection. 
+The deployment of a keylogger can be as simple as downloading a .exe file and running it, what varries is the method of infection. 
 
 Key loggers can be malicously downloaded to your computer downloads via:
 
@@ -48,3 +48,5 @@ When the key logger is done its functions, it should remove itself from the comp
 - Made durring hack the hill's 2023 hackathon.
 - Three person dev team.
 - Py-logger was primarally made for windows OS.
+---
+###### Hack The Hill Team: Freddy Andrews, Jacob Chiu, Emmanuel Mphande.
