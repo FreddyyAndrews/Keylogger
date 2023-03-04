@@ -49,6 +49,12 @@ Lastly the key logger should be able to exfiltrate the key logs, exfiltration ca
 When the key logger is done its functions, it should remove itself from the computer to avoid future detection, aswell as remove the logs it kept.
 
 ---
+# How to use Pylogger
+- run payload.py on target computer.
+    - payload.py will recreate pylogger.py to avoid detection from windows defender.
+- parse the produced text file keylogs.txt with pyparse.py.
+    - pyparse.py will try to construct words the user typed by printing and deleting letters respecitve to the users actions.
+---
 
 # FAQ
 - Py-logger is a keylogger made with python.
