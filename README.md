@@ -2,7 +2,7 @@
 
 <div align="center"style="font-size:30px;">
 
-![Entrepass Logo](/Assets/keyloggerImg.png "keyloggerImg")
+![keyloggerImg](/Assets/keyloggerImg.png "keyloggerImg")
 
 </div>
 
