@@ -2,7 +2,7 @@
 
 <div align="center"style="font-size:30px;">
 
-![keyloggerImg](/Assets/keyloggerImg.png "keyloggerImg")
+![keyloggerImg](/Assets/KeyloggerImg.png "keyloggerImg")
 
 </div>
 
