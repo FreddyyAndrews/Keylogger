@@ -3,7 +3,7 @@
 
 # What is a keylogger?
 
-When trying to exploit poor OPSEC or Social Engineer someone, keyloggers arepowerfull reconnaissance tools. Used to keep a history of keys the user pressed, this can be useful for gathering information, iterperting paterns, credintials, and search histroy from the user. 
+When trying to exploit poor OPSEC or Social Engineer someone, keyloggers are powerfull reconnaissance tools. Used to keep a history of keys the user pressed, this can be useful for gathering information, iterperting paterns, credintials, and search histroy from the user. 
 
 Key loggers work in a three stage process:
 - Deployment
