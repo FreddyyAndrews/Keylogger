@@ -1,5 +1,10 @@
 # Py-logger, The python key logger
 
+<div align="center"style="font-size:30px;">
+
+![Entrepass Logo](/Assets/keyloggerImg.png "Entrepass logo")
+
+</div>
 
 # What is a keylogger?
 
